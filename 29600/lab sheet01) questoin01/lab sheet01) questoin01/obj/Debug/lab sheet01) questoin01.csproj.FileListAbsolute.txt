@@ -1,0 +1,7 @@
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\bin\Debug\lab sheet01) questoin01.exe.config
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\bin\Debug\lab sheet01) questoin01.exe
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\bin\Debug\lab sheet01) questoin01.pdb
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\obj\Debug\lab sheet01) questoin01.csproj.AssemblyReference.cache
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\obj\Debug\lab sheet01) questoin01.csproj.CoreCompileInputs.cache
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\obj\Debug\lab sheet01) questoin01.exe
+C:\Users\bimya\OneDrive\Documents\c#\lab sheet01) questoin01\lab sheet01) questoin01\obj\Debug\lab sheet01) questoin01.pdb
